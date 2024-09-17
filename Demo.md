@@ -1,0 +1,4 @@
+
+I admit that my knowledge in markdown is still fairly limited, although I am thoroughly enjoying it over other document tools like Microsoft Word - a program I hope to rarely return to.
+
+I've learned how to *italicize* things with no shortcuts, **bold** things, etc. without shortcuts. This language seemed daunting, but I think muscle memory and practice will build my ability to use this writing language effectively in my work. I can tell that this knowledge is going to truly change the way I write, both personally and professionally. I feel like I am finally getting to the "Technical" part of Technical Communications.
